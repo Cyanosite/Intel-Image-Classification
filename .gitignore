@@ -1,3 +1,5 @@
 /dataset
+/logs
 intel-image-classification.zip
 .DS_Store
+model.hdf5
